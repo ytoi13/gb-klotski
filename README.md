@@ -16,9 +16,11 @@ https://github.com/ytoi13/gb-klotski/releases/download/v1.0.0/main.gb
 
 ### Installing the Toolchain
 
-**RGBDS v0.8.0:** Please check the page https://rgbds.gbdev.io/docs/v0.8.0.
+**RGBDS v0.8.0:** Please check the page https://github.com/gbdev/rgbds/releases/v0.8.0.
 
 Due to breaking changes introduced in RGBDS 1.0+, compilation is only verified on **v0.8.0**.
+
+Please check the page https://rgbds.gbdev.io/install for detailed installation steps.
 
 ### Running the Toolchain
 
